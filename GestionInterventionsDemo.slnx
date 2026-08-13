@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GestionInterventions.Api/GestionInterventions.Api.csproj" />
+    <Project Path="src/GestionInterventions.Domain/GestionInterventions.Domain.csproj" />
+  </Folder>
+</Solution>
